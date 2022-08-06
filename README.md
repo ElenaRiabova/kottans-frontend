@@ -1,4 +1,5 @@
 # kottans-frontend
+Repository for Front-End Course Kottans
 ## Stage 0. Self-Study
 ### Git and GitHub
 Загалом, подача матеріалу на Coursera сподобалась, особливо те, що теми були розбиті на короткі фрагменти. Мова проста, переклад не знадобився. Шкода, що не можна було пройти лабораторні завдання, але гра на [learngitbranching.js.org](https://learngitbranching.js.org/) дуже допомогла в освоєнні команд.
