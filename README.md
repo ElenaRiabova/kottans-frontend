@@ -13,6 +13,7 @@ Repository for Front-End Course Kottans
 ![learngitbranching Push-Pull](https://user-images.githubusercontent.com/110284542/183263814-52fc9b69-9260-4ed5-9e3b-960a385b5f1e.PNG)
 </details>
 
+
 #### Додаткові матеріали</summary>
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
@@ -24,3 +25,11 @@ Repository for Front-End Course Kottans
 - [ ] [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 - [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
+
+
+## Linux CLI, and HTTP
+[Screenshots for Linux Survival](https://github.com/ElenaRiabova/kottans-frontend/tree/main/task_linux_cli)
+
+**_Linux Survival_**. Основні команди вивчилися швидко, в інтекрактивній формі легше вчитися. Дуже сподобалося.
+
+**_HTTP_**. Матеріал прочитала, але не можу сказати, що інформація добре засвоїлася. Можливо на практиці все стане зрозумілішим.
