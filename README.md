@@ -1,15 +1,15 @@
 # kottans-frontend
 Repository for Front-End Course Kottans
+
 <details>
 <summary>
-
 # Stage 0. Self-Study
 </summary>
 
 **General**
 - [x] 0. [Git Basics](tasks/git-intro.md)
 - [x] 1. [Linux CLI and Networking](tasks/linux-cli-http.md)
-- [ ] 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
 **Front-End Basics**
 - [ ] 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
@@ -33,6 +33,7 @@ Repository for Front-End Course Kottans
 
 ## Git and GitHub
 Загалом, подача матеріалу на Coursera сподобалась, особливо те, що теми були розбиті на короткі фрагменти. Мова проста, переклад не знадобився. Шкода, що не можна було пройти лабораторні завдання, але гра на [learngitbranching.js.org](https://learngitbranching.js.org/) дуже допомогла в освоєнні команд.
+
 <details>
 <summary>Screenshots</summary>
 
@@ -40,7 +41,9 @@ Repository for Front-End Course Kottans
 ![Coursera  Introduction to Git and GitHub W2](https://user-images.githubusercontent.com/110284542/183263670-bfede772-672b-432f-9a69-54b4b3cad9f4.PNG)
 
 ![learngitbranching Intro](https://user-images.githubusercontent.com/110284542/183263812-c5ba8f3e-4e32-4bf5-accf-8336f2945d19.PNG)
+![learngitbranching Ramping Up](https://user-images.githubusercontent.com/110284542/185745274-4c98e9c0-91aa-45cc-a614-82f108d8bd7b.PNG)
 ![learngitbranching Push-Pull](https://user-images.githubusercontent.com/110284542/183263814-52fc9b69-9260-4ed5-9e3b-960a385b5f1e.PNG)
+  
 </details>
 
 
@@ -53,12 +56,39 @@ Repository for Front-End Course Kottans
 
 ***
 
+
+## Git Collaboration
+В цілому програма сподобалася, але ця тема потребує постійної практики, бо вже наприкінці почала плутати чим відрізняються команди. В результаті - останні рівні йшли довго та нудно.  
+Також треба зауважити що заняття 3 та 4 тижня краще було венести до завдання по PR (в мене були деякі труднощі, вирішення яких я шукала в інтернеті, а всі відповіді вже були там).
+
+<details>
+<summary>Screenshots for Coursera</summary>
+
+![Week 3](https://github.com/ElenaRiabova/kottans-frontend/blob/335ba96d609372618aebd7fe229a904409949926/task_git_collaboration/Coursera.%20Introduction%20to%20Git%20and%20GitHub%20W3.PNG)
+  
+![Week 4](https://github.com/ElenaRiabova/kottans-frontend/blob/335ba96d609372618aebd7fe229a904409949926/task_git_collaboration/Coursera.%20Introduction%20to%20Git%20and%20GitHub%20W4.PNG)
+</details>
+ 
+<details>
+<summary>Screenshots for https://learngitbranching.js.org/</summary>
+ 
+![cherry-pick](https://github.com/ElenaRiabova/kottans-frontend/blob/335ba96d609372618aebd7fe229a904409949926/task_git_collaboration/learngitbranching%20cherry-pick.PNG)
+  
+![origin-stars](https://github.com/ElenaRiabova/kottans-frontend/blob/335ba96d609372618aebd7fe229a904409949926/task_git_collaboration/learngitbranching%20origin-stars.PNG)
+  
+![other levels](https://github.com/ElenaRiabova/kottans-frontend/blob/335ba96d609372618aebd7fe229a904409949926/task_git_collaboration/learngitbranching%20other%20levels.PNG)
+
+</details>
+  
+***
+  
+  
 <details>
 <summary>
 
 #### Додаткові матеріали
 </summary>
-
+  
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
 - [ ] [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
@@ -75,6 +105,11 @@ Repository for Front-End Course Kottans
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/)
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+---
+- [ ] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://youtu.be/MJUJ4wbFm_A)
+- [ ] [Oh shit, git!](http://ohshitgit.com/)
+- [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [ ] [GitHub Skills](https://skills.github.com/)
 </details>
 
 
