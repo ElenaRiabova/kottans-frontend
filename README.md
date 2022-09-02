@@ -3,6 +3,7 @@ Repository for Front-End Course Kottans
 
 <details>
 <summary>
+
 # Stage 0. Self-Study
 </summary>
 
@@ -12,7 +13,7 @@ Repository for Front-End Course Kottans
 - [x] 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
 **Front-End Basics**
-- [ ] 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
+- [x] 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
 - [ ] 4. [Responsive Web Design](tasks/html-css-responsive.md)
 - [ ] 5. [HTML & CSS Practice](tasks/html-css-popup.md)
 - [ ] 6. [JavaScript Basics](tasks/js-basics.md)
@@ -32,7 +33,7 @@ Repository for Front-End Course Kottans
 
 
 ## Git and GitHub
-Загалом, подача матеріалу на Coursera сподобалась, особливо те, що теми були розбиті на короткі фрагменти. Мова проста, переклад не знадобився. Шкода, що не можна було пройти лабораторні завдання, але гра на [learngitbranching.js.org](https://learngitbranching.js.org/) дуже допомогла в освоєнні команд.
+Overall, I liked the presentation of the material on Coursera, especially the fact that the topics were broken into short chunks. The language is simple, no translation was needed. It's a pity that it was not possible to pass the lab tasks, but playing on [learngitbranching.js.org](https://learngitbranching.js.org/) helped a lot in learning the commands.
 
 <details>
 <summary>Screenshots</summary>
@@ -48,18 +49,19 @@ Repository for Front-End Course Kottans
 
 
 ## Linux CLI, and HTTP
+**_Linux Survival_**. Basic commands were learned quickly, for me it is easier to learn in interactive form. Liked the tasks very much.
+
+**_HTTP_**. I have read  all the material, but can't say that I understood the information well. Maybe everything will become clearer with practice.
+
 [Screenshots for Linux Survival](https://github.com/ElenaRiabova/kottans-frontend/tree/main/task_linux_cli)
 
-**_Linux Survival_**. Основні команди вивчилися швидко, в інтекрактивній формі легше вчитися. Дуже сподобалося.
-
-**_HTTP_**. Матеріал прочитала, але не можу сказати, що інформація добре засвоїлася. Можливо на практиці все стане зрозумілішим.
 
 ***
 
 
 ## Git Collaboration
-В цілому програма сподобалася, але ця тема потребує постійної практики, бо вже наприкінці почала плутати чим відрізняються команди. В результаті - останні рівні йшли довго та нудно.  
-Також треба зауважити що заняття 3 та 4 тижня краще було венести до завдання по PR (в мене були деякі труднощі, вирішення яких я шукала в інтернеті, а всі відповіді вже були там).
+In general, I liked this course, but this topic needs constant practice, because at the end I started to get confused about the differences between commands. As a result, the last levels were long and boring to get through.
+It should also be noted that the classes of weeks 3 and 4 should have been assigned before the PR task (I had some difficulties and was looking for solution in the Internet, and all the answers were already there).
 
 <details>
 <summary>Screenshots for Coursera</summary>
@@ -81,12 +83,31 @@ Repository for Front-End Course Kottans
 </details>
   
 ***
+
+
+## Intro to HTML and CSS
+I was already somewhat familiar with the basics of HTML and CSS before this, so there were no difficulties. Some things became clearer, such as positioning and using the Box Model.
+
+
+<details>
+<summary>Screenshots</summary>
+
+![Week 1](https://github.com/ElenaRiabova/kottans-frontend/blob/a7002e1d1f66f79e2da694251a71619335f15fb0/task_html_css_intro/html-css-javascript-for-web-developers%20W1.PNG)
   
+![Week 2](https://github.com/ElenaRiabova/kottans-frontend/blob/a7002e1d1f66f79e2da694251a71619335f15fb0/task_html_css_intro/html-css-javascript-for-web-developers%20W2.PNG)
+
+![Learn HTML, CSS](https://github.com/ElenaRiabova/kottans-frontend/blob/a7002e1d1f66f79e2da694251a71619335f15fb0/task_html_css_intro/Codeacademy.PNG)
+
+</details>
+
+
+***
+
   
 <details>
 <summary>
 
-#### Додаткові матеріали
+#### Additional materials
 </summary>
   
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
@@ -110,6 +131,14 @@ Repository for Front-End Course Kottans
 - [ ] [Oh shit, git!](http://ohshitgit.com/)
 - [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [ ] [GitHub Skills](https://skills.github.com/)
+---
+- [ ] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [ ] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [ ] [freecodecamp.org](https://www.freecodecamp.org)
+- [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
+- [ ] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
+- [ ] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+
 </details>
 
 
