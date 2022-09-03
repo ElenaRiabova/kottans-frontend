@@ -14,7 +14,7 @@ Repository for Front-End Course Kottans
 
 **Front-End Basics**
 - [x] 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
-- [ ] 4. [Responsive Web Design](tasks/html-css-responsive.md)
+- [x] 4. [Responsive Web Design](tasks/html-css-responsive.md)
 - [ ] 5. [HTML & CSS Practice](tasks/html-css-popup.md)
 - [ ] 6. [JavaScript Basics](tasks/js-basics.md)
 - [ ] 7. [Document Object Model](tasks/js-dom.md) - practice
@@ -84,7 +84,6 @@ It should also be noted that the classes of weeks 3 and 4 should have been assig
   
 ***
 
-
 ## Intro to HTML and CSS
 I was already somewhat familiar with the basics of HTML and CSS before this, so there were no difficulties. Some things became clearer, such as positioning and using the Box Model.
 
@@ -102,7 +101,18 @@ I was already somewhat familiar with the basics of HTML and CSS before this, so 
 
 
 ***
+## Responsive Web Design
+Great presentation of the material, clear and to the point. In this part of the course learned a lot about the importance and flexibility of using Flexbox and Grid Layout. So far it's my favourite section.
 
+<details>
+<summary>Screenshots</summary>
+
+![Flexbox Froggy](https://github.com/ElenaRiabova/kottans-frontend/blob/8be7ab3dedff289da91727c9f63c67fbff224ea9/task_responsive_web_design/Flexbox%20Froggy.PNG)
+  
+![Grid Garden](https://github.com/ElenaRiabova/kottans-frontend/blob/8be7ab3dedff289da91727c9f63c67fbff224ea9/task_responsive_web_design/Grid%20Garden.PNG)
+</details>
+
+***
   
 <details>
 <summary>
@@ -138,6 +148,12 @@ I was already somewhat familiar with the basics of HTML and CSS before this, so 
 - [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 - [ ] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
 - [ ] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+---
+- [x] [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+- [x] [Specificity calculator](https://specificity.keegan.st/)
+- [x] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+- [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
+- [x] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 
 </details>
 
